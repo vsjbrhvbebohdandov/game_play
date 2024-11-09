@@ -1,4 +1,17 @@
 {
-  "users": [
+"users": [
+    {
+    "id": 1,
+    "name": "bohdan",
+    "surname": "Dovbenko",
+    "balance": "1500"
+  }],
+  "products": [
+   {
+    "name": "forza horizon",
+    "price": "10$",
+    "amount":"15"
+   } 
   ]
+
 }
